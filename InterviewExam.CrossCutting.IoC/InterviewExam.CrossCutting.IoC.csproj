@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.7.1" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="6.0.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\InterviewExam.Application\InterviewExam.Application.csproj" />
+    <ProjectReference Include="..\InterviewExam.Domain\InterviewExam.Domain.csproj" />
+    <ProjectReference Include="..\InterviewExam.Infrastructure.Data.Context\InterviewExam.Infrastructure.Data.Context.csproj" />
+    <ProjectReference Include="..\InterviewExam.Infrastructure.Data.Repository\InterviewExam.Infrastructure.Data.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

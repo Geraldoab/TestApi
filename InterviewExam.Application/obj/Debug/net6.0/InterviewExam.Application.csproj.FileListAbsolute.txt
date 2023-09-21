@@ -1,0 +1,15 @@
+F:\Projetos GIT\InterviewExam\InterviewExam.Application\bin\Debug\net6.0\InterviewExam.Application.deps.json
+F:\Projetos GIT\InterviewExam\InterviewExam.Application\bin\Debug\net6.0\InterviewExam.Application.dll
+F:\Projetos GIT\InterviewExam\InterviewExam.Application\bin\Debug\net6.0\InterviewExam.Application.pdb
+F:\Projetos GIT\InterviewExam\InterviewExam.Application\bin\Debug\net6.0\InterviewExam.Domain.dll
+F:\Projetos GIT\InterviewExam\InterviewExam.Application\bin\Debug\net6.0\InterviewExam.Domain.pdb
+F:\Projetos GIT\InterviewExam\InterviewExam.Application\obj\Debug\net6.0\InterviewExam.Application.csproj.AssemblyReference.cache
+F:\Projetos GIT\InterviewExam\InterviewExam.Application\obj\Debug\net6.0\InterviewExam.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos GIT\InterviewExam\InterviewExam.Application\obj\Debug\net6.0\InterviewExam.Application.AssemblyInfoInputs.cache
+F:\Projetos GIT\InterviewExam\InterviewExam.Application\obj\Debug\net6.0\InterviewExam.Application.AssemblyInfo.cs
+F:\Projetos GIT\InterviewExam\InterviewExam.Application\obj\Debug\net6.0\InterviewExam.Application.csproj.CoreCompileInputs.cache
+F:\Projetos GIT\InterviewExam\InterviewExam.Application\obj\Debug\net6.0\InterviewExam.Application.csproj.CopyComplete
+F:\Projetos GIT\InterviewExam\InterviewExam.Application\obj\Debug\net6.0\InterviewExam.Application.dll
+F:\Projetos GIT\InterviewExam\InterviewExam.Application\obj\Debug\net6.0\refint\InterviewExam.Application.dll
+F:\Projetos GIT\InterviewExam\InterviewExam.Application\obj\Debug\net6.0\InterviewExam.Application.pdb
+F:\Projetos GIT\InterviewExam\InterviewExam.Application\obj\Debug\net6.0\ref\InterviewExam.Application.dll

@@ -1,0 +1,17 @@
+F:\Projetos GIT\InterviewExam\InterviewExam.Infrastructure.Data.Context\bin\Debug\net6.0\InterviewExam.Infrastructure.Data.Context.deps.json
+F:\Projetos GIT\InterviewExam\InterviewExam.Infrastructure.Data.Context\bin\Debug\net6.0\InterviewExam.Infrastructure.Data.Context.runtimeconfig.json
+F:\Projetos GIT\InterviewExam\InterviewExam.Infrastructure.Data.Context\bin\Debug\net6.0\InterviewExam.Infrastructure.Data.Context.dll
+F:\Projetos GIT\InterviewExam\InterviewExam.Infrastructure.Data.Context\bin\Debug\net6.0\InterviewExam.Infrastructure.Data.Context.pdb
+F:\Projetos GIT\InterviewExam\InterviewExam.Infrastructure.Data.Context\bin\Debug\net6.0\InterviewExam.Domain.dll
+F:\Projetos GIT\InterviewExam\InterviewExam.Infrastructure.Data.Context\bin\Debug\net6.0\InterviewExam.Domain.pdb
+F:\Projetos GIT\InterviewExam\InterviewExam.Infrastructure.Data.Context\obj\Debug\net6.0\InterviewExam.Infrastructure.Data.Context.csproj.AssemblyReference.cache
+F:\Projetos GIT\InterviewExam\InterviewExam.Infrastructure.Data.Context\obj\Debug\net6.0\InterviewExam.Infrastructure.Data.Context.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos GIT\InterviewExam\InterviewExam.Infrastructure.Data.Context\obj\Debug\net6.0\InterviewExam.Infrastructure.Data.Context.AssemblyInfoInputs.cache
+F:\Projetos GIT\InterviewExam\InterviewExam.Infrastructure.Data.Context\obj\Debug\net6.0\InterviewExam.Infrastructure.Data.Context.AssemblyInfo.cs
+F:\Projetos GIT\InterviewExam\InterviewExam.Infrastructure.Data.Context\obj\Debug\net6.0\InterviewExam.Infrastructure.Data.Context.csproj.CoreCompileInputs.cache
+F:\Projetos GIT\InterviewExam\InterviewExam.Infrastructure.Data.Context\obj\Debug\net6.0\InterviewExam.Infrastructure.Data.Context.csproj.CopyComplete
+F:\Projetos GIT\InterviewExam\InterviewExam.Infrastructure.Data.Context\obj\Debug\net6.0\InterviewExam.Infrastructure.Data.Context.dll
+F:\Projetos GIT\InterviewExam\InterviewExam.Infrastructure.Data.Context\obj\Debug\net6.0\refint\InterviewExam.Infrastructure.Data.Context.dll
+F:\Projetos GIT\InterviewExam\InterviewExam.Infrastructure.Data.Context\obj\Debug\net6.0\InterviewExam.Infrastructure.Data.Context.pdb
+F:\Projetos GIT\InterviewExam\InterviewExam.Infrastructure.Data.Context\obj\Debug\net6.0\InterviewExam.Infrastructure.Data.Context.genruntimeconfig.cache
+F:\Projetos GIT\InterviewExam\InterviewExam.Infrastructure.Data.Context\obj\Debug\net6.0\ref\InterviewExam.Infrastructure.Data.Context.dll
