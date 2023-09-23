@@ -6390,11 +6390,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Projetos GIT\\InterviewExam\\InterviewExam.Infrastructure.Data.Repository\\InterviewExam.Infrastructure.Data.Repository.csproj",
+      "projectUniqueName": "F:\\Projetos GIT\\TestApi\\InterviewExam.Infrastructure.Data.Repository\\InterviewExam.Infrastructure.Data.Repository.csproj",
       "projectName": "InterviewExam.Infrastructure.Data.Repository",
-      "projectPath": "F:\\Projetos GIT\\InterviewExam\\InterviewExam.Infrastructure.Data.Repository\\InterviewExam.Infrastructure.Data.Repository.csproj",
+      "projectPath": "F:\\Projetos GIT\\TestApi\\InterviewExam.Infrastructure.Data.Repository\\InterviewExam.Infrastructure.Data.Repository.csproj",
       "packagesPath": "C:\\Users\\geral\\.nuget\\packages\\",
-      "outputPath": "F:\\Projetos GIT\\InterviewExam\\InterviewExam.Infrastructure.Data.Repository\\obj\\",
+      "outputPath": "F:\\Projetos GIT\\TestApi\\InterviewExam.Infrastructure.Data.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\geral\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6411,11 +6411,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "F:\\Projetos GIT\\InterviewExam\\InterviewExam.Domain\\InterviewExam.Domain.csproj": {
-              "projectPath": "F:\\Projetos GIT\\InterviewExam\\InterviewExam.Domain\\InterviewExam.Domain.csproj"
+            "F:\\Projetos GIT\\TestApi\\InterviewExam.Domain\\InterviewExam.Domain.csproj": {
+              "projectPath": "F:\\Projetos GIT\\TestApi\\InterviewExam.Domain\\InterviewExam.Domain.csproj"
             },
-            "F:\\Projetos GIT\\InterviewExam\\InterviewExam.Infrastructure.Data.Context\\InterviewExam.Infrastructure.Data.Context.csproj": {
-              "projectPath": "F:\\Projetos GIT\\InterviewExam\\InterviewExam.Infrastructure.Data.Context\\InterviewExam.Infrastructure.Data.Context.csproj"
+            "F:\\Projetos GIT\\TestApi\\InterviewExam.Infrastructure.Data.Context\\InterviewExam.Infrastructure.Data.Context.csproj": {
+              "projectPath": "F:\\Projetos GIT\\TestApi\\InterviewExam.Infrastructure.Data.Context\\InterviewExam.Infrastructure.Data.Context.csproj"
             }
           }
         }

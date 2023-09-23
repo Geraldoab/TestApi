@@ -1,11 +1,7 @@
 ﻿using InterviewExam.Domain.Interfaces.Repositories;
 using InterviewExam.Domain.Models;
 using InterviewExam.Infrastructure.Data.Context;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
 
 namespace InterviewExam.Infrastructure.Data.Repository
 {
@@ -17,9 +13,9 @@ namespace InterviewExam.Infrastructure.Data.Repository
             this._context = context;        
         }
 
-        public Task<Product> GetByIdAsync(long productId, CancellationToken cancellationToken)
+        public async Task<Product?> GetByIdAsync(int productId, CancellationToken cancellationToken)
         {
-            throw new NotImplementedException();
+            return await _context.Products.FirstOrDefaultAsync(w=> w.ProductId == productId, cancellationToken: cancellationToken);
         }
     }
 }

@@ -6,6 +6,7 @@
         {
            OrderProducts = new HashSet<OrderProduct>();
         }
+
         public int OrderId { get; set; }
         public DateTime OrderDate { get; set; } = DateTime.Now;
         public int CustomerId { get; set; }

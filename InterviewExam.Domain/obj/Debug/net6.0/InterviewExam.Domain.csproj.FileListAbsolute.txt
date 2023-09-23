@@ -9,3 +9,14 @@ F:\Projetos GIT\InterviewExam\InterviewExam.Domain\obj\Debug\net6.0\InterviewExa
 F:\Projetos GIT\InterviewExam\InterviewExam.Domain\obj\Debug\net6.0\refint\InterviewExam.Domain.dll
 F:\Projetos GIT\InterviewExam\InterviewExam.Domain\obj\Debug\net6.0\InterviewExam.Domain.pdb
 F:\Projetos GIT\InterviewExam\InterviewExam.Domain\obj\Debug\net6.0\ref\InterviewExam.Domain.dll
+F:\Projetos GIT\TestApi\InterviewExam.Domain\bin\Debug\net6.0\InterviewExam.Domain.deps.json
+F:\Projetos GIT\TestApi\InterviewExam.Domain\bin\Debug\net6.0\InterviewExam.Domain.dll
+F:\Projetos GIT\TestApi\InterviewExam.Domain\bin\Debug\net6.0\InterviewExam.Domain.pdb
+F:\Projetos GIT\TestApi\InterviewExam.Domain\obj\Debug\net6.0\InterviewExam.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos GIT\TestApi\InterviewExam.Domain\obj\Debug\net6.0\InterviewExam.Domain.AssemblyInfoInputs.cache
+F:\Projetos GIT\TestApi\InterviewExam.Domain\obj\Debug\net6.0\InterviewExam.Domain.AssemblyInfo.cs
+F:\Projetos GIT\TestApi\InterviewExam.Domain\obj\Debug\net6.0\InterviewExam.Domain.csproj.CoreCompileInputs.cache
+F:\Projetos GIT\TestApi\InterviewExam.Domain\obj\Debug\net6.0\InterviewExam.Domain.dll
+F:\Projetos GIT\TestApi\InterviewExam.Domain\obj\Debug\net6.0\refint\InterviewExam.Domain.dll
+F:\Projetos GIT\TestApi\InterviewExam.Domain\obj\Debug\net6.0\InterviewExam.Domain.pdb
+F:\Projetos GIT\TestApi\InterviewExam.Domain\obj\Debug\net6.0\ref\InterviewExam.Domain.dll

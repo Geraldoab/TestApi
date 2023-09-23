@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = InterviewExam.Infrastructure.Data.Repository
-build_property.ProjectDir = F:\Projetos GIT\InterviewExam\InterviewExam.Infrastructure.Data.Repository\
+build_property.ProjectDir = F:\Projetos GIT\TestApi\InterviewExam.Infrastructure.Data.Repository\

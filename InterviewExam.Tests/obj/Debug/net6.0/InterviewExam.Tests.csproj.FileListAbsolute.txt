@@ -1,0 +1,6 @@
+F:\Projetos GIT\TestApi\InterviewExam.Tests\bin\Debug\net6.0\CoverletSourceRootsMapping_InterviewExam.Tests
+F:\Projetos GIT\TestApi\InterviewExam.Tests\obj\Debug\net6.0\InterviewExam.Tests.csproj.AssemblyReference.cache
+F:\Projetos GIT\TestApi\InterviewExam.Tests\obj\Debug\net6.0\InterviewExam.Tests.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos GIT\TestApi\InterviewExam.Tests\obj\Debug\net6.0\InterviewExam.Tests.AssemblyInfoInputs.cache
+F:\Projetos GIT\TestApi\InterviewExam.Tests\obj\Debug\net6.0\InterviewExam.Tests.AssemblyInfo.cs
+F:\Projetos GIT\TestApi\InterviewExam.Tests\obj\Debug\net6.0\InterviewExam.Tests.csproj.CoreCompileInputs.cache

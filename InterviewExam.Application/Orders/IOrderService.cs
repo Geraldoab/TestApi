@@ -1,12 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using InterviewExam.Domain.Models;
 
 namespace InterviewExam.Application.Orders
 {
     public interface IOrderService
     {
+        public Task<IEnumerable<Order>> GetAsync(int customerId, DateTime? startDate, DateTime? endDate, CancellationToken cancellationToken);
     }
 }

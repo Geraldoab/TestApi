@@ -7137,11 +7137,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Projetos GIT\\InterviewExam\\InterviewExam\\InterviewExam.Api.csproj",
+      "projectUniqueName": "F:\\Projetos GIT\\TestApi\\InterviewExam\\InterviewExam.Api.csproj",
       "projectName": "InterviewExam.Api",
-      "projectPath": "F:\\Projetos GIT\\InterviewExam\\InterviewExam\\InterviewExam.Api.csproj",
+      "projectPath": "F:\\Projetos GIT\\TestApi\\InterviewExam\\InterviewExam.Api.csproj",
       "packagesPath": "C:\\Users\\geral\\.nuget\\packages\\",
-      "outputPath": "F:\\Projetos GIT\\InterviewExam\\InterviewExam\\obj\\",
+      "outputPath": "F:\\Projetos GIT\\TestApi\\InterviewExam\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\geral\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7158,8 +7158,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "F:\\Projetos GIT\\InterviewExam\\InterviewExam.CrossCutting.IoC\\InterviewExam.CrossCutting.IoC.csproj": {
-              "projectPath": "F:\\Projetos GIT\\InterviewExam\\InterviewExam.CrossCutting.IoC\\InterviewExam.CrossCutting.IoC.csproj"
+            "F:\\Projetos GIT\\TestApi\\InterviewExam.CrossCutting.IoC\\InterviewExam.CrossCutting.IoC.csproj": {
+              "projectPath": "F:\\Projetos GIT\\TestApi\\InterviewExam.CrossCutting.IoC\\InterviewExam.CrossCutting.IoC.csproj"
             }
           }
         }

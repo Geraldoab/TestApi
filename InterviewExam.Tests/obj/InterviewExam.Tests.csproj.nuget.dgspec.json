@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Projetos GIT\\InterviewExam\\InterviewExam.Tests\\InterviewExam.Tests.csproj": {}
+    "F:\\Projetos GIT\\TestApi\\InterviewExam.Tests\\InterviewExam.Tests.csproj": {}
   },
   "projects": {
-    "F:\\Projetos GIT\\InterviewExam\\InterviewExam.Application\\InterviewExam.Application.csproj": {
+    "F:\\Projetos GIT\\TestApi\\InterviewExam.Application\\InterviewExam.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projetos GIT\\InterviewExam\\InterviewExam.Application\\InterviewExam.Application.csproj",
+        "projectUniqueName": "F:\\Projetos GIT\\TestApi\\InterviewExam.Application\\InterviewExam.Application.csproj",
         "projectName": "InterviewExam.Application",
-        "projectPath": "F:\\Projetos GIT\\InterviewExam\\InterviewExam.Application\\InterviewExam.Application.csproj",
+        "projectPath": "F:\\Projetos GIT\\TestApi\\InterviewExam.Application\\InterviewExam.Application.csproj",
         "packagesPath": "C:\\Users\\geral\\.nuget\\packages\\",
-        "outputPath": "F:\\Projetos GIT\\InterviewExam\\InterviewExam.Application\\obj\\",
+        "outputPath": "F:\\Projetos GIT\\TestApi\\InterviewExam.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\geral\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\Projetos GIT\\InterviewExam\\InterviewExam.Domain\\InterviewExam.Domain.csproj": {
-                "projectPath": "F:\\Projetos GIT\\InterviewExam\\InterviewExam.Domain\\InterviewExam.Domain.csproj"
+              "F:\\Projetos GIT\\TestApi\\InterviewExam.Domain\\InterviewExam.Domain.csproj": {
+                "projectPath": "F:\\Projetos GIT\\TestApi\\InterviewExam.Domain\\InterviewExam.Domain.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "F:\\Projetos GIT\\InterviewExam\\InterviewExam.CrossCutting.IoC\\InterviewExam.CrossCutting.IoC.csproj": {
+    "F:\\Projetos GIT\\TestApi\\InterviewExam.CrossCutting.IoC\\InterviewExam.CrossCutting.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projetos GIT\\InterviewExam\\InterviewExam.CrossCutting.IoC\\InterviewExam.CrossCutting.IoC.csproj",
+        "projectUniqueName": "F:\\Projetos GIT\\TestApi\\InterviewExam.CrossCutting.IoC\\InterviewExam.CrossCutting.IoC.csproj",
         "projectName": "InterviewExam.CrossCutting.IoC",
-        "projectPath": "F:\\Projetos GIT\\InterviewExam\\InterviewExam.CrossCutting.IoC\\InterviewExam.CrossCutting.IoC.csproj",
+        "projectPath": "F:\\Projetos GIT\\TestApi\\InterviewExam.CrossCutting.IoC\\InterviewExam.CrossCutting.IoC.csproj",
         "packagesPath": "C:\\Users\\geral\\.nuget\\packages\\",
-        "outputPath": "F:\\Projetos GIT\\InterviewExam\\InterviewExam.CrossCutting.IoC\\obj\\",
+        "outputPath": "F:\\Projetos GIT\\TestApi\\InterviewExam.CrossCutting.IoC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\geral\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -93,17 +93,17 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\Projetos GIT\\InterviewExam\\InterviewExam.Application\\InterviewExam.Application.csproj": {
-                "projectPath": "F:\\Projetos GIT\\InterviewExam\\InterviewExam.Application\\InterviewExam.Application.csproj"
+              "F:\\Projetos GIT\\TestApi\\InterviewExam.Application\\InterviewExam.Application.csproj": {
+                "projectPath": "F:\\Projetos GIT\\TestApi\\InterviewExam.Application\\InterviewExam.Application.csproj"
               },
-              "F:\\Projetos GIT\\InterviewExam\\InterviewExam.Domain\\InterviewExam.Domain.csproj": {
-                "projectPath": "F:\\Projetos GIT\\InterviewExam\\InterviewExam.Domain\\InterviewExam.Domain.csproj"
+              "F:\\Projetos GIT\\TestApi\\InterviewExam.Domain\\InterviewExam.Domain.csproj": {
+                "projectPath": "F:\\Projetos GIT\\TestApi\\InterviewExam.Domain\\InterviewExam.Domain.csproj"
               },
-              "F:\\Projetos GIT\\InterviewExam\\InterviewExam.Infrastructure.Data.Context\\InterviewExam.Infrastructure.Data.Context.csproj": {
-                "projectPath": "F:\\Projetos GIT\\InterviewExam\\InterviewExam.Infrastructure.Data.Context\\InterviewExam.Infrastructure.Data.Context.csproj"
+              "F:\\Projetos GIT\\TestApi\\InterviewExam.Infrastructure.Data.Context\\InterviewExam.Infrastructure.Data.Context.csproj": {
+                "projectPath": "F:\\Projetos GIT\\TestApi\\InterviewExam.Infrastructure.Data.Context\\InterviewExam.Infrastructure.Data.Context.csproj"
               },
-              "F:\\Projetos GIT\\InterviewExam\\InterviewExam.Infrastructure.Data.Repository\\InterviewExam.Infrastructure.Data.Repository.csproj": {
-                "projectPath": "F:\\Projetos GIT\\InterviewExam\\InterviewExam.Infrastructure.Data.Repository\\InterviewExam.Infrastructure.Data.Repository.csproj"
+              "F:\\Projetos GIT\\TestApi\\InterviewExam.Infrastructure.Data.Repository\\InterviewExam.Infrastructure.Data.Repository.csproj": {
+                "projectPath": "F:\\Projetos GIT\\TestApi\\InterviewExam.Infrastructure.Data.Repository\\InterviewExam.Infrastructure.Data.Repository.csproj"
               }
             }
           }
@@ -155,14 +155,14 @@
         }
       }
     },
-    "F:\\Projetos GIT\\InterviewExam\\InterviewExam.Domain\\InterviewExam.Domain.csproj": {
+    "F:\\Projetos GIT\\TestApi\\InterviewExam.Domain\\InterviewExam.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projetos GIT\\InterviewExam\\InterviewExam.Domain\\InterviewExam.Domain.csproj",
+        "projectUniqueName": "F:\\Projetos GIT\\TestApi\\InterviewExam.Domain\\InterviewExam.Domain.csproj",
         "projectName": "InterviewExam.Domain",
-        "projectPath": "F:\\Projetos GIT\\InterviewExam\\InterviewExam.Domain\\InterviewExam.Domain.csproj",
+        "projectPath": "F:\\Projetos GIT\\TestApi\\InterviewExam.Domain\\InterviewExam.Domain.csproj",
         "packagesPath": "C:\\Users\\geral\\.nuget\\packages\\",
-        "outputPath": "F:\\Projetos GIT\\InterviewExam\\InterviewExam.Domain\\obj\\",
+        "outputPath": "F:\\Projetos GIT\\TestApi\\InterviewExam.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\geral\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -210,14 +210,14 @@
         }
       }
     },
-    "F:\\Projetos GIT\\InterviewExam\\InterviewExam.Infrastructure.Data.Context\\InterviewExam.Infrastructure.Data.Context.csproj": {
+    "F:\\Projetos GIT\\TestApi\\InterviewExam.Infrastructure.Data.Context\\InterviewExam.Infrastructure.Data.Context.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projetos GIT\\InterviewExam\\InterviewExam.Infrastructure.Data.Context\\InterviewExam.Infrastructure.Data.Context.csproj",
+        "projectUniqueName": "F:\\Projetos GIT\\TestApi\\InterviewExam.Infrastructure.Data.Context\\InterviewExam.Infrastructure.Data.Context.csproj",
         "projectName": "InterviewExam.Infrastructure.Data.Context",
-        "projectPath": "F:\\Projetos GIT\\InterviewExam\\InterviewExam.Infrastructure.Data.Context\\InterviewExam.Infrastructure.Data.Context.csproj",
+        "projectPath": "F:\\Projetos GIT\\TestApi\\InterviewExam.Infrastructure.Data.Context\\InterviewExam.Infrastructure.Data.Context.csproj",
         "packagesPath": "C:\\Users\\geral\\.nuget\\packages\\",
-        "outputPath": "F:\\Projetos GIT\\InterviewExam\\InterviewExam.Infrastructure.Data.Context\\obj\\",
+        "outputPath": "F:\\Projetos GIT\\TestApi\\InterviewExam.Infrastructure.Data.Context\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\geral\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -234,8 +234,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\Projetos GIT\\InterviewExam\\InterviewExam.Domain\\InterviewExam.Domain.csproj": {
-                "projectPath": "F:\\Projetos GIT\\InterviewExam\\InterviewExam.Domain\\InterviewExam.Domain.csproj"
+              "F:\\Projetos GIT\\TestApi\\InterviewExam.Domain\\InterviewExam.Domain.csproj": {
+                "projectPath": "F:\\Projetos GIT\\TestApi\\InterviewExam.Domain\\InterviewExam.Domain.csproj"
               }
             }
           }
@@ -299,14 +299,14 @@
         }
       }
     },
-    "F:\\Projetos GIT\\InterviewExam\\InterviewExam.Infrastructure.Data.Repository\\InterviewExam.Infrastructure.Data.Repository.csproj": {
+    "F:\\Projetos GIT\\TestApi\\InterviewExam.Infrastructure.Data.Repository\\InterviewExam.Infrastructure.Data.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projetos GIT\\InterviewExam\\InterviewExam.Infrastructure.Data.Repository\\InterviewExam.Infrastructure.Data.Repository.csproj",
+        "projectUniqueName": "F:\\Projetos GIT\\TestApi\\InterviewExam.Infrastructure.Data.Repository\\InterviewExam.Infrastructure.Data.Repository.csproj",
         "projectName": "InterviewExam.Infrastructure.Data.Repository",
-        "projectPath": "F:\\Projetos GIT\\InterviewExam\\InterviewExam.Infrastructure.Data.Repository\\InterviewExam.Infrastructure.Data.Repository.csproj",
+        "projectPath": "F:\\Projetos GIT\\TestApi\\InterviewExam.Infrastructure.Data.Repository\\InterviewExam.Infrastructure.Data.Repository.csproj",
         "packagesPath": "C:\\Users\\geral\\.nuget\\packages\\",
-        "outputPath": "F:\\Projetos GIT\\InterviewExam\\InterviewExam.Infrastructure.Data.Repository\\obj\\",
+        "outputPath": "F:\\Projetos GIT\\TestApi\\InterviewExam.Infrastructure.Data.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\geral\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -323,11 +323,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\Projetos GIT\\InterviewExam\\InterviewExam.Domain\\InterviewExam.Domain.csproj": {
-                "projectPath": "F:\\Projetos GIT\\InterviewExam\\InterviewExam.Domain\\InterviewExam.Domain.csproj"
+              "F:\\Projetos GIT\\TestApi\\InterviewExam.Domain\\InterviewExam.Domain.csproj": {
+                "projectPath": "F:\\Projetos GIT\\TestApi\\InterviewExam.Domain\\InterviewExam.Domain.csproj"
               },
-              "F:\\Projetos GIT\\InterviewExam\\InterviewExam.Infrastructure.Data.Context\\InterviewExam.Infrastructure.Data.Context.csproj": {
-                "projectPath": "F:\\Projetos GIT\\InterviewExam\\InterviewExam.Infrastructure.Data.Context\\InterviewExam.Infrastructure.Data.Context.csproj"
+              "F:\\Projetos GIT\\TestApi\\InterviewExam.Infrastructure.Data.Context\\InterviewExam.Infrastructure.Data.Context.csproj": {
+                "projectPath": "F:\\Projetos GIT\\TestApi\\InterviewExam.Infrastructure.Data.Context\\InterviewExam.Infrastructure.Data.Context.csproj"
               }
             }
           }
@@ -361,14 +361,14 @@
         }
       }
     },
-    "F:\\Projetos GIT\\InterviewExam\\InterviewExam.Tests\\InterviewExam.Tests.csproj": {
+    "F:\\Projetos GIT\\TestApi\\InterviewExam.Tests\\InterviewExam.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projetos GIT\\InterviewExam\\InterviewExam.Tests\\InterviewExam.Tests.csproj",
+        "projectUniqueName": "F:\\Projetos GIT\\TestApi\\InterviewExam.Tests\\InterviewExam.Tests.csproj",
         "projectName": "InterviewExam.Tests",
-        "projectPath": "F:\\Projetos GIT\\InterviewExam\\InterviewExam.Tests\\InterviewExam.Tests.csproj",
+        "projectPath": "F:\\Projetos GIT\\TestApi\\InterviewExam.Tests\\InterviewExam.Tests.csproj",
         "packagesPath": "C:\\Users\\geral\\.nuget\\packages\\",
-        "outputPath": "F:\\Projetos GIT\\InterviewExam\\InterviewExam.Tests\\obj\\",
+        "outputPath": "F:\\Projetos GIT\\TestApi\\InterviewExam.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\geral\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -385,11 +385,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\Projetos GIT\\InterviewExam\\InterviewExam.CrossCutting.IoC\\InterviewExam.CrossCutting.IoC.csproj": {
-                "projectPath": "F:\\Projetos GIT\\InterviewExam\\InterviewExam.CrossCutting.IoC\\InterviewExam.CrossCutting.IoC.csproj"
+              "F:\\Projetos GIT\\TestApi\\InterviewExam.CrossCutting.IoC\\InterviewExam.CrossCutting.IoC.csproj": {
+                "projectPath": "F:\\Projetos GIT\\TestApi\\InterviewExam.CrossCutting.IoC\\InterviewExam.CrossCutting.IoC.csproj"
               },
-              "F:\\Projetos GIT\\InterviewExam\\InterviewExam\\InterviewExam.Api.csproj": {
-                "projectPath": "F:\\Projetos GIT\\InterviewExam\\InterviewExam\\InterviewExam.Api.csproj"
+              "F:\\Projetos GIT\\TestApi\\InterviewExam\\InterviewExam.Api.csproj": {
+                "projectPath": "F:\\Projetos GIT\\TestApi\\InterviewExam\\InterviewExam.Api.csproj"
               }
             }
           }
@@ -461,14 +461,14 @@
         }
       }
     },
-    "F:\\Projetos GIT\\InterviewExam\\InterviewExam\\InterviewExam.Api.csproj": {
+    "F:\\Projetos GIT\\TestApi\\InterviewExam\\InterviewExam.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projetos GIT\\InterviewExam\\InterviewExam\\InterviewExam.Api.csproj",
+        "projectUniqueName": "F:\\Projetos GIT\\TestApi\\InterviewExam\\InterviewExam.Api.csproj",
         "projectName": "InterviewExam.Api",
-        "projectPath": "F:\\Projetos GIT\\InterviewExam\\InterviewExam\\InterviewExam.Api.csproj",
+        "projectPath": "F:\\Projetos GIT\\TestApi\\InterviewExam\\InterviewExam.Api.csproj",
         "packagesPath": "C:\\Users\\geral\\.nuget\\packages\\",
-        "outputPath": "F:\\Projetos GIT\\InterviewExam\\InterviewExam\\obj\\",
+        "outputPath": "F:\\Projetos GIT\\TestApi\\InterviewExam\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\geral\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -485,8 +485,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\Projetos GIT\\InterviewExam\\InterviewExam.CrossCutting.IoC\\InterviewExam.CrossCutting.IoC.csproj": {
-                "projectPath": "F:\\Projetos GIT\\InterviewExam\\InterviewExam.CrossCutting.IoC\\InterviewExam.CrossCutting.IoC.csproj"
+              "F:\\Projetos GIT\\TestApi\\InterviewExam.CrossCutting.IoC\\InterviewExam.CrossCutting.IoC.csproj": {
+                "projectPath": "F:\\Projetos GIT\\TestApi\\InterviewExam.CrossCutting.IoC\\InterviewExam.CrossCutting.IoC.csproj"
               }
             }
           }

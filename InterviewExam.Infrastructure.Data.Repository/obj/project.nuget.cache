@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "By6rnQaxOussd6CWH77S9HU4/1V1IGz6ASWJ4lzjB0sZ/8ac8TOx1/JYb9SC+IKt9xpRlcGAJb7LJuJwAOP6OA==",
+  "dgSpecHash": "6MPKSvsLv3bLFlu20rDhkKW52uUsvlc8y8/0/x8FDnuOSnug8Bvcbtfc9RujzJREoUni/cgUmXQ/9T7KnqxJmg==",
   "success": true,
-  "projectFilePath": "F:\\Projetos GIT\\InterviewExam\\InterviewExam.Infrastructure.Data.Repository\\InterviewExam.Infrastructure.Data.Repository.csproj",
+  "projectFilePath": "F:\\Projetos GIT\\TestApi\\InterviewExam.Infrastructure.Data.Repository\\InterviewExam.Infrastructure.Data.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\geral\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\geral\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.22\\microsoft.data.sqlite.core.6.0.22.nupkg.sha512",

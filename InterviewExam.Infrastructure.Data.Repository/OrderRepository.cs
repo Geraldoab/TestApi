@@ -1,11 +1,7 @@
 ﻿using InterviewExam.Domain.Interfaces.Repositories;
 using InterviewExam.Domain.Models;
 using InterviewExam.Infrastructure.Data.Context;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
 
 namespace InterviewExam.Infrastructure.Data.Repository
 {
@@ -22,9 +18,15 @@ namespace InterviewExam.Infrastructure.Data.Repository
             throw new NotImplementedException();
         }
 
-        public Task<IEnumerable<Order>> GetAsync(long customerId, DateTime? startDate, DateTime? endDate, CancellationToken cancellationToken)
+        public async Task<IEnumerable<Order>> GetAsync(int customerId, DateTime? startDate, DateTime? endDate, CancellationToken cancellationToken)
         {
-            throw new NotImplementedException();
+            var a =  await _context.Orders
+                .Include(i => i.OrderProducts)
+                .ThenInclude(i => i.Product)
+                .Where(x => x.CustomerId == customerId && ((startDate == null || x.OrderDate.Date >= startDate.Value.Date) && (endDate == null || x.OrderDate.Date <= endDate.Value.Date)))
+                .ToListAsync(cancellationToken);
+
+            return a;
         }
     }
 }

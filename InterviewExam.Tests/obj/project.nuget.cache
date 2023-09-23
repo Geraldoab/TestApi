@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KmFLo8Wpx5KEoJl4MpAT+466ciVCC5MGlAMWRb6sa4PKd1Kx7L5hSEqt0asFL/YHlVwZfvnkFFhnpm6/uBbmWQ==",
+  "dgSpecHash": "/YYOQsM5z7mo/9V/jt56WePCbrvuANICHDJldFLvu3Vr01dVr7n6bka9T5190eoygFnjvFzoG05FS28ndJlNsA==",
   "success": true,
-  "projectFilePath": "F:\\Projetos GIT\\InterviewExam\\InterviewExam.Tests\\InterviewExam.Tests.csproj",
+  "projectFilePath": "F:\\Projetos GIT\\TestApi\\InterviewExam.Tests\\InterviewExam.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\geral\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\geral\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",

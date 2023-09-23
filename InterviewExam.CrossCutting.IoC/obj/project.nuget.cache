@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kK7idQhPGMoe3INccFO3IOqhxZ53UjpA94po9SZUqrPnpCyubEpfC062UnOlI3fSCeFtZKUM2cgmZp6pRejorg==",
+  "dgSpecHash": "jIA+ek+LiC3V+n49zkOwt0Z4n7jooGnnsOIS2NVyMMV9FErzPBSG5rWveHFdHL6hHp+b3iApWjjdEfhiQDEetA==",
   "success": true,
-  "projectFilePath": "F:\\Projetos GIT\\InterviewExam\\InterviewExam.CrossCutting.IoC\\InterviewExam.CrossCutting.IoC.csproj",
+  "projectFilePath": "F:\\Projetos GIT\\TestApi\\InterviewExam.CrossCutting.IoC\\InterviewExam.CrossCutting.IoC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\geral\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\geral\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",

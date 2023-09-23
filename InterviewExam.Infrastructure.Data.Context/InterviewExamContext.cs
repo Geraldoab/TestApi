@@ -8,7 +8,7 @@ namespace InterviewExam.Infrastructure.Data.Context
     {
         public DbSet<Customer> Customers { get; set; }
         public DbSet<Order> Orders { get; set; }
-        public DbSet<OrderProduct> Products { get; set; }
+        public DbSet<Product> Products { get; set; }
         public DbSet<OrderProduct> OrderProducts { get; set; }
 
         public InterviewExamContext(DbContextOptions options) : base(options)

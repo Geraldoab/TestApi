@@ -16,9 +16,4 @@
     <ProjectReference Include="..\InterviewExam.CrossCutting.IoC\InterviewExam.CrossCutting.IoC.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Contracts\Orders\" />
-    <Folder Include="Contracts\Products\" />
-  </ItemGroup>
-
 </Project>

@@ -4,6 +4,6 @@ namespace InterviewExam.Domain.Interfaces.Repositories
 {
     public interface IProductRepository
     {
-        public Task<Product> GetByIdAsync(long productId, CancellationToken cancellationToken);
+        public Task<Product?> GetByIdAsync(int productId, CancellationToken cancellationToken);
     }
 }
