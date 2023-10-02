@@ -2,6 +2,10 @@ using InterviewExam.Api.Filters;
 using InterviewExam.CrossCutting.IoC;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Versioning;
+using Serilog.Sinks.Elasticsearch;
+using Serilog;
+using System.Reflection;
+using Serilog.Exceptions;
 
 namespace InterviewExam.Api
 {
@@ -10,6 +14,9 @@ namespace InterviewExam.Api
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+
+            ConfigureLogging();
+            builder.Host.UseSerilog();
 
             // Add services to the container.
 
@@ -50,14 +57,45 @@ namespace InterviewExam.Api
                 app.UseSwaggerUI();
             }
 
-            app.UseHttpsRedirection();
+            //app.UseHttpsRedirection();
 
             app.UseAuthorization();
 
-
+            app.UseCors();
             app.MapControllers();
 
+            app.MapGraphQL("/graphql");
             app.Run();
+        }
+
+        private static void ConfigureLogging()
+        {
+            var environment = Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT");
+            var configuration = new ConfigurationBuilder()
+                .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
+                .AddJsonFile(
+                    $"appsettings.{Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT")}.json",
+                    optional: true)
+                .Build();
+
+            Log.Logger = new LoggerConfiguration()
+                .Enrich.FromLogContext()
+                .Enrich.WithExceptionDetails()
+                .WriteTo.Debug()
+                .WriteTo.Console()
+                .WriteTo.Elasticsearch(ConfigureElasticSink(configuration, environment))
+                .Enrich.WithProperty("Environment", environment)
+                .ReadFrom.Configuration(configuration)
+                .CreateLogger();
+        }
+
+        private static ElasticsearchSinkOptions ConfigureElasticSink(IConfigurationRoot configuration, string environment)
+        {
+            return new ElasticsearchSinkOptions(new Uri(configuration["ElasticConfiguration:Uri"]))
+            {
+                AutoRegisterTemplate = true,
+                IndexFormat = $"interviewExam-logs-{DateTime.UtcNow:yyyy-MM}"
+            };
         }
     }
 }

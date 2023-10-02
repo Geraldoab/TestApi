@@ -26,6 +26,17 @@ namespace InterviewExam.Api.Contracts.Orders
 
                     return items;
                 }));
+
+            CreateMap<OrderPostResponse, Order>()
+                .ForMember(d => d.CustomerId, s => s.MapFrom(m => m.CustomerId))
+                .ForMember(d => d.OrderProducts, s => s.MapFrom((s, _) =>
+                {
+                    return s.Products?.Select(p => new OrderProduct()
+                    {
+                        ProductId = p.ProductId,
+                        Quantity = p.Quantity
+                    }).ToList();
+                }));
         }
     }
 }

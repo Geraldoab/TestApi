@@ -15,5 +15,10 @@ namespace InterviewExam.Application.Products
         {
             return await _repository.GetByIdAsync(productId, cancellationToken);
         }
+
+        public async Task UpdateStockAsync(int productId, int newQuantity, CancellationToken cancellationToken)
+        {
+            await _repository.UpdateStockAsync(productId, newQuantity, cancellationToken);
+        }
     }
 }

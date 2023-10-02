@@ -17,6 +17,7 @@ namespace InterviewExam.CrossCutting.IoC
             DbContainer.Register(services, configuration, isTest);
             AutoMapperContainer.Register(services);
             ValidatorContainer.Register(services);
+            GraphqlContainer.Register(services);
 
             RegisterServices(services);
             RegisterRepositories(services);

@@ -13,7 +13,7 @@ namespace InterviewExam.Infrastructure.Data.Repository
             this._context = context;        
         }
 
-        public Task<Order> CreateAsync(Order newOrder, CancellationToken cancellationToken)
+        public async Task<Order> CreateAsync(Order newOrder, CancellationToken cancellationToken)
         {
             throw new NotImplementedException();
         }
