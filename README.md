@@ -1,4 +1,5 @@
 # TestApi
+![image](https://github.com/Geraldoab/TestApi/assets/3846304/d63cfe65-01a5-42d9-909d-10bf0c26e69f)
 
 # About
   A simple API to manage Customers, Orders and Products.
