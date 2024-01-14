@@ -9,6 +9,10 @@
   - GraphQL with HotChocolate library
   - Validations with FluentValidation library
   - SQLite Database
+    
+# How to use
+  - ``` docker-compose up ```
+  - Open the project on Visual Studio and play 
 
 # Architectural Patterns
   - Onion
